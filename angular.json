@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NatureClubberApp"
+    }
+  },
+  "defaultProject": "NatureClubberApp",
+  "cli": {
+    "analytics": "b764ecbb-e3b0-484e-88f2-0acafd194988"
+  }
 }
